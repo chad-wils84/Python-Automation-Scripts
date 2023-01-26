@@ -3,7 +3,7 @@ __version__ = '1.0'
 
 """
 This script takes in two text files containing IP addresses and finds the MATCHING IPs between them. 
-When you launch this program, you will be prompted by two file dialog windows. (Recommended you select the smallest file first)
+When you launch this program, you will be prompted by two file dialog windows. (Recommended you select the smallest file first).
 Select the desired .txt file.
 The location where you run the script will output two files. 
 _IP_Matched.txt includes the matching IPs between the two files. 
